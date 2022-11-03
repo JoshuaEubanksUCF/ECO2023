@@ -1,0 +1,13 @@
+\beamer@sectionintoc {1}{Calculating Area}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Area of Rectangle/Square}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Area of a Triangle}{7}{0}{1}
+\beamer@sectionintoc {2}{Fractions}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Multiplying and Dividing Fractions}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Adding and Subtracting Fractions}{12}{0}{2}
+\beamer@sectionintoc {3}{Graphing}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Cartesian Coordinate System}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Graphs}{16}{0}{3}
+\beamer@sectionintoc {4}{Slope and Rate of Change}{21}{0}{4}
+\beamer@subsectionintoc {4}{1}{Percentages and Ratios}{25}{0}{4}
+\beamer@subsectionintoc {4}{2}{Changes in Percentages}{26}{0}{4}
+\beamer@sectionintoc {5}{Systems of Equations}{30}{0}{5}
